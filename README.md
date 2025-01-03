@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @preciosoo 
+- 👋 Hi, I’m @precious 
 - 👀 I’m interested in Cyber Security and AI Development
 - 🌱 I’m currently learning Cyber Forensics
 - 💞️ I am working on gaining more knowleddge on cyber attacks and defense
